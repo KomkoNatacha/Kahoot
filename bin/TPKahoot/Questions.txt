@@ -1,0 +1,20 @@
+Q:Quel est la capital du Québec?
+C:Trois-Rivières/Québec/Montréal/Ottawa
+R:Québec
+-
+Q:Quel est la couleur d'une banane?
+C:Bleu/Rouge/Vert/Jaune
+R:Jaune
+-
+Q:Quel est la couleur du ciel?
+C:Bleu/Rouge/Vert/Jaune
+R:Bleu
+-
+Q:Quel est la saison la plus chaude?
+C:Été/Automne/Hiver/Printemps
+R:Été
+-
+Q:Que fait 3 x 5?
+C:15/20/18/21
+R:15
+-
